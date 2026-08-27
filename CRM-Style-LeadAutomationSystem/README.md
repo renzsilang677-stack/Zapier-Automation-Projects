@@ -74,4 +74,40 @@ This automation system solves those problems by:
 
 ## 📸 Screenshots
 
-Add your screenshots here:
+### 🔄 Workflow & Flowchart
+
+![Workflow](CRM-Style-LeadAutomationSystem/Workflow-diagrams/Zapier_CRM_Lead_Workflow.png)
+
+![Flowchart](CRM-Style-LeadAutomationSystem/Workflow-diagrams/Zapier_CRM_Lead_FLOWCHART.png)
+
+---
+
+### 📊 Google Forms Auto Recording (Spreadsheet Result)
+
+![Google Forms Record](CRM-Style-LeadAutomationSystem/Screenshots/Spreadsheet/Record From GoogleForms.png)
+
+---
+
+### 📝 Google Form Source
+
+![Google Form](CRM-Style-LeadAutomationSystem/Screenshots/GoogleForms/Google Forms.png)
+
+---
+
+### 📧 Auto Email Reply to Client
+
+![Auto Reply 1](CRM-Style-LeadAutomationSystem/Result/AutoEmailReply/Autoreply To Client1.jpg)
+
+![Auto Reply 2](CRM-Style-LeadAutomationSystem/Result/AutoEmailReply/Autoreply to client 2.jpg)
+
+---
+
+### 🔔 Notification to Owner (Potential Clients / Orders)
+
+![Notification 1](CRM-Style-LeadAutomationSystem/Result/NotificationToOwner/Potential Orders 1.jpg)
+
+![Notification 2](CRM-Style-LeadAutomationSystem/Result/NotificationToOwner/Potential Orders 2.jpg)
+
+![Notification 3](CRM-Style-LeadAutomationSystem/Result/NotificationToOwner/Potential Orders 3.jpg)
+
+![Notification 4](CRM-Style-LeadAutomationSystem/Result/NotificationToOwner/Potential Orders 4.jpg)
